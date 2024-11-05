@@ -16,7 +16,7 @@ Bu proje, React Native ve `react-native-biometrics` kullanılarak geliştirilmi�
 
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-1. **Projeyi klonlayın**: git clone https://github.com/username/BiometricLoginApp.git
+1. **Projeyi klonlayın**: git clone https://github.com/klnconat/BiometricLogin.git
 
 2. **Gerekli bağımlılıkları yükleyin**: npm install
 
